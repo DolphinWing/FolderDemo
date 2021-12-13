@@ -7,6 +7,7 @@
 /build
 *.iml
 #.idea/vcs.xml
+hs_err_*.log
 
 #https://github.com/github/gitignore/blob/master/Android.gitignore
 # IntelliJ
